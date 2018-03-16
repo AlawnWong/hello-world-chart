@@ -1,0 +1,7 @@
+name: hello-world-chart
+description: A Helm chart for Kubernetes
+apiVersion: v1
+appVersion: "1.0"
+version: 0.1.0
+home: https://grafana.net
+icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
